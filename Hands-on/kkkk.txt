@@ -1,0 +1,9 @@
+kullanici_adi=input("kullanici adiniz:")
+paswort=input("paswort:")
+
+
+if kullanici_adi=="gelincik" and paswort=="agerte21":
+    print("hosgeldin ya sehri ramazan")
+
+else:
+    print("yanlis kullanici adi veya parola!")
